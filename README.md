@@ -1,11 +1,7 @@
-Eu sou a maria
+- Eu sou a maria
 
+- Tenho 15 anos e estudo no encino medio
 
+- Estou aprendendo algumas coisas sobre a tecnologia.
 
-
-
-tenho 15 anos e estudo no encino medio
-
-estou aprendendo algumas coisas sobre a tecnologia.
-
-entre em contato:maria.dionizio.mota@escola.pr.gov.br
+- Entre em contato:maria.dionizio.mota@escola.pr.gov.br
